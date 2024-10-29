@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Comic Collection</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">No comic issues in the inventory. Tap + to add.</string>
+    <string name="edit_comic_title">Edit Comic</string>
+    <string name="comic">Comic</string>
+    <string name="comic_detail_title">Comic Details</string>
+    <string name="comic_entry_title">Add Comic</string>
+    <string name="comic_name_req">Comic Name*</string>
+    <string name="comic_publisher_req">Publisher*</string>
+    <string name="comic_issue_req">Issue*</string>
+    <string name="no">No</string>
+    <string name="issue">Issue %d</string>
+    <string name="issue_label">Issue</string>
+    <string name="publisher">Publisher</string>
+    <string name="save_action">Save</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+</resources>
